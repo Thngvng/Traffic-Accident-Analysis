@@ -1,5 +1,5 @@
 1. Sơ lược về dataset
-Các vụ va chạm xe cơ giới liên quan đến người tử vong hoặc bị thương nghiêm trọng
++ Các vụ va chạm xe cơ giới liên quan đến người tử vong hoặc bị thương nghiêm trọng
 Bộ dữ liệu này bao gồm tất cả các vụ va chạm giao thông mà một người tử vong hoặc bị thương nghiêm trọng (KSI) từ năm 2006 đến năm 2023.
 
 + Hạn chế
